@@ -1,3 +1,5 @@
+:warning: This repository has been deprecated in favor of [censoredplanet/censoredplanet-analysis](https://github.com/censoredplanet/censoredplanet-analysis). Please check there for ongoing work.
+
 # Censored Planet Data Analysis Pipeline
 
 This pipeline takes raw data from the
